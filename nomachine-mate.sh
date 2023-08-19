@@ -15,7 +15,6 @@ function goto
 : ngrok
 clear
 
-" CRP
 ./ngrok authtoken 2U5TcRkDqTMQq0f8YfNnajfxaFB_6rfmYNFLX69tVr1ALq6X6 
 
 
